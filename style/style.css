@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 50px;
+}
+nav ul{
+    display: flex;
+    
+
+}
